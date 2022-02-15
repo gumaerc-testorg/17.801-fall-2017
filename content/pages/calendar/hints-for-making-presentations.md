@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Calendar and Assignments
+parent_type: CourseSection
 parent_uid: 075fc754-40bc-e545-e344-134ee6477fd5
 title: Hints for Making Presentations
 uid: dc09ab58-b9e4-1aef-bd30-50985ffe5cd3

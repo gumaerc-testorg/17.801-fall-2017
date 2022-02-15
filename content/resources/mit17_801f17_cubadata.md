@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-801-political-science-scope-and-methods-fall-2017/09e0f680f174f2d430482ec88e93249e_MIT17_801F17_CubaData.pdf
+file: /media/courses/17-801-political-science-scope-and-methods-fall-2017/09e0f680f174f2d430482ec88e93249e_MIT17_801F17_CubaData.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: '17.801F17 Political Science Scope and Methods Projects: Analyzing the Cuba
   Data'
