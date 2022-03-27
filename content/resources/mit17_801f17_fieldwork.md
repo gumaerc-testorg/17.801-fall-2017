@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fbc2dd0b-3b67-a963-6375-a06866265ac9
 resourcetype: Document
 title: '17.801F17 Political Science Scope and Methods Readings: Can Field Work Be
   Scientific?'

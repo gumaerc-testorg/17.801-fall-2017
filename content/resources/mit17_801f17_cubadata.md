@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3825a61f-508a-3b6d-504d-b7baa65b3c9a
 resourcetype: Document
 title: '17.801F17 Political Science Scope and Methods Projects: Analyzing the Cuba
   Data'
