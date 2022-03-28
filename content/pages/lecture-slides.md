@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Slides
 uid: 790e85a7-0e6f-92f2-8433-bca4befbf155
 ---
@@ -89,7 +90,7 @@ Cases Selection and its Challenges
 
 Evaluating a (Small) Body of Work: The Effects of Candidate Appearance
 
-[Using Qualtrics to Conduct Online Surveys (PDF)]({{< baseurl >}}/resources/mit17_801f17_week7)
+{{< resource_link c0406dfd-49da-fb39-2890-471e86cdc256 "Using Qualtrics to Conduct Online Surveys (PDF)" >}}
 
 
 {{< tdclose >}}
