@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-801-political-science-scope-and-methods-fall-2017/c51569337127301d038a308421343cfc_MIT17_801F17_Qualtrics.pdf
+file: /courses/17-801-political-science-scope-and-methods-fall-2017/c51569337127301d038a308421343cfc_MIT17_801F17_Qualtrics.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

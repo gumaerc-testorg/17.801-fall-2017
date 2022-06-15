@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section contains the course lecture slides.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Slides
 uid: 790e85a7-0e6f-92f2-8433-bca4befbf155
 ---
@@ -30,7 +30,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Scientific Method as Applied to Political Outcomes (PDF - 2.6MB)]({{< baseurl >}}/resources/mit17_801f17_week1)
+{{% resource_link "eb98cb1c-240d-6485-effd-8c248653eb64" "The Scientific Method as Applied to Political Outcomes (PDF - 2.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -43,7 +43,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Theory and Method in Political Science (PDF - 1.7MB)]({{< baseurl >}}/resources/mit17_801f17_week2)
+{{% resource_link "6a29254e-ae13-ce1e-762e-76e62a33ccfc" "Theory and Method in Political Science (PDF - 1.7MB)" %}}
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Observational Data and its Challenges (PDF)]({{< baseurl >}}/resources/mit17_801f17_week4)
+{{% resource_link "784056e6-7f7f-4917-b1a0-f4944919a7b4" "Observational Data and its Challenges (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -71,11 +71,11 @@ TOPICS
 
 Cases Selection and its Challenges
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Research Method: Small N (PDF - 1.1MB)]({{< baseurl >}}/resources/mit17_801f17_week5_3)
+{{% resource_link "792aefb9-97dc-17b8-09b0-dc9b072389bf" "Research Method: Small N (PDF - 1.1MB)" %}}
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Research Design Checklist (PDF)]({{< baseurl >}}/resources/mit17_801f17_week5_2)
+{{% resource_link "639185e6-4469-f57a-aab3-c0f02907705c" "Research Design Checklist (PDF)" %}}
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Choosing a Topic (PDF)]({{< baseurl >}}/resources/mit17_801f17_week5_1)
+{{% resource_link "76aa4147-e295-a311-cbbf-586c7900d723" "Choosing a Topic (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -90,7 +90,7 @@ Cases Selection and its Challenges
 
 Evaluating a (Small) Body of Work: The Effects of Candidate Appearance
 
-{{< resource_link c0406dfd-49da-fb39-2890-471e86cdc256 "Using Qualtrics to Conduct Online Surveys (PDF)" >}}
+{{% resource_link c0406dfd-49da-fb39-2890-471e86cdc256 "Using Qualtrics to Conduct Online Surveys (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -103,7 +103,7 @@ Evaluating a (Small) Body of Work: The Effects of Candidate Appearance
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Conducting Field Research (PDF)]({{< baseurl >}}/resources/mit17_801f17_week10)
+{{% resource_link "61f46ef0-7d69-9ae3-9b93-b8ceff1bf52a" "Conducting Field Research (PDF)" %}}
 
 
 {{< tdclose >}}

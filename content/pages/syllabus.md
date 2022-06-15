@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 44656b1b-6e76-b077-ffdd-e0869c86167b
 ---
@@ -31,7 +31,7 @@ This course has been designated Communication Intensive ([CI-M](http://web.mit.e
 Readings
 --------
 
-For course readings, see the table in the {{< resource_link fbc2dd0b-3b67-a963-6375-a06866265ac9 "Readings" >}} section.
+For course readings, see the table in the {{% resource_link fbc2dd0b-3b67-a963-6375-a06866265ac9 "Readings" %}} section.
 
 I will also be making liberal use of the following book, which you may wish to buy:
 
@@ -42,7 +42,7 @@ Requirements and Grading
 
 Grades will be based on class participation (30%) and class assignments (70%). There is an assignment almost every week (with the more onerous ones in the first two-thirds of the semester). Each assignment counts equally except for the quantitative data-collection exercise you will conduct, to be presented to the class during Session 12, which counts three times more than each other assignment, and the paper due during Week 11, which counts twice as much.
 
-All assignments (including the slides you will use in your formal class presentations) are due by 4 PM the day BEFORE the class on which they will be discussed. Because the assignments are crucial to class discussion, late submissions will be penalized in a draconian fashion. For your papers, make sure to consult the {{< resource_link 4e1e9717-04a6-4447-429d-723cec44d612 "Hints for Writing Papers" >}} (a.k.a., pet peeves). Also consult the {{< resource_link dc09ab58-b9e4-1aef-bd30-50985ffe5cd3 "Hints for Making Presentations" >}}.
+All assignments (including the slides you will use in your formal class presentations) are due by 4 PM the day BEFORE the class on which they will be discussed. Because the assignments are crucial to class discussion, late submissions will be penalized in a draconian fashion. For your papers, make sure to consult the {{% resource_link 4e1e9717-04a6-4447-429d-723cec44d612 "Hints for Writing Papers" %}} (a.k.a., pet peeves). Also consult the {{% resource_link dc09ab58-b9e4-1aef-bd30-50985ffe5cd3 "Hints for Making Presentations" %}}.
 
 Attendance is obviously a prerequisite for class participation. An unexcused absence will jeopardize your class participation grade; two would do so fatally.
 
