@@ -6,6 +6,7 @@ file: /courses/17-801-political-science-scope-and-methods-fall-2017/8d57a45ecbbc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '17.801F17 Political Science Scope and Methods Readings: Interview Guide'
 uid: 8d57a45e-cbbc-073c-54c7-e795c63a1c65
 ---
 This resource contains information regarding political science scope and methods lecture slides: Interview guide.
-

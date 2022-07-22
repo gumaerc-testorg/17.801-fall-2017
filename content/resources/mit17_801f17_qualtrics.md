@@ -5,6 +5,7 @@ file: /courses/17-801-political-science-scope-and-methods-fall-2017/c51569337127
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Assignments
 parent_type: CourseSection

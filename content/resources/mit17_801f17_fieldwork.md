@@ -6,6 +6,7 @@ file: /courses/17-801-political-science-scope-and-methods-fall-2017/e7e85368b478
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '17.801F17 Political Science Scope and Methods Readings: Can Field Work B
 uid: e7e85368-b478-fe9c-a3b4-b1cc97a45a0f
 ---
 This resource contains information regarding political science scope and methods lecture slides: Can field work be scientific?
-

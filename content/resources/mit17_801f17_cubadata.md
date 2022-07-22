@@ -5,6 +5,7 @@ file: /courses/17-801-political-science-scope-and-methods-fall-2017/09e0f680f174
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
