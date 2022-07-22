@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course topics, assignments, and key due dates.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Calendar and Assignments
 uid: 075fc754-40bc-e545-e344-134ee6477fd5
 ---
@@ -64,7 +68,7 @@ One-page essay:
 
 Is a “science” of politics possible? Desirable? Desirable or not, what would such a “science” look like?  
 
-(Make sure to review the [Hints for Writing Papers]({{< baseurl >}}/pages/calendar/hints-for-writing-papers))
+(Make sure to review the {{% resource_link 4e1e9717-04a6-4447-429d-723cec44d612 "Hints for Writing Papers" %}})
 
 
 {{< tdclose >}}
@@ -86,12 +90,12 @@ _In class: Student presentations, experimental social science and its discontent
 {{< tdopen >}}
 
 
-Read one of the following articles and be prepared to comment in class on your selection in light of the readings listed in Session 3 of the table in the [Readings]({{< baseurl >}}/pages/readings) section:
+Read one of the following articles and be prepared to comment in class on your selection in light of the readings listed in Session 3 of the table in the {{% resource_link fbc2dd0b-3b67-a963-6375-a06866265ac9 "Readings" %}} section:
 
 *   Blair, Graeme, C. Christine Fair, Neil Malhotra, et al. “[Poverty and Support for Militant Politics: Evidence from Pakistan](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00604.x/abstract).” _American Journal of Political Science_ 57 (2013): 30–48.
-*   Habyarimana, James, Macartan Humphreys, Daniel N. Posner, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Why Does Ethnic Diversity Undermine Public Goods Provision?” (PDF)](http://www.columbia.edu/~mh2245/papers1/HHPW.pdf) _American Political Science Review_ 101, no. 4 (2007): 709–25.
+*   Habyarimana, James, Macartan Humphreys, Daniel N. Posner, et al. [“Why Does Ethnic Diversity Undermine Public Goods Provision?” (PDF)](http://www.columbia.edu/~mh2245/papers1/HHPW.pdf) _American Political Science Review_ 101, no. 4 (2007): 709–25.
 
-Your presentation should be 5 minutes long; it should summarize the article — its argument, its method, its empirical evidence — and offer your critique (which should be informed by the other readings). You will be strictly timed, and you should make use of visual aids; make sure to review the [Hints for Making Presentations]({{< baseurl >}}/pages/calendar/hints-for-making-presentations). Your slides should be submitted to the instructor by 4 PM the day before class.
+Your presentation should be 5 minutes long; it should summarize the article — its argument, its method, its empirical evidence — and offer your critique (which should be informed by the other readings). You will be strictly timed, and you should make use of visual aids; make sure to review the {{% resource_link dc09ab58-b9e4-1aef-bd30-50985ffe5cd3 "Hints for Making Presentations" %}}. Your slides should be submitted to the instructor by 4 PM the day before class.
 
 
 {{< tdclose >}}
@@ -158,7 +162,7 @@ _In class: Presentation of peer-reviews. Subjection of the readings to an exeges
 {{< tdopen >}}
 
 
-Write two peer reviews, one on each of the articles listed in Week 6 of the table in the [Readings]({{< baseurl >}}/pages/readings) section. Your peer reviews should each be about two pages in length. As background, a referee’s report normally contains the following elements:
+Write two peer reviews, one on each of the articles listed in Week 6 of the table in the {{% resource_link fbc2dd0b-3b67-a963-6375-a06866265ac9 "Readings" %}} section. Your peer reviews should each be about two pages in length. As background, a referee’s report normally contains the following elements:
 
 1.  An overall assessment 
 2.  A brief summary of the authors’ claims and evidence, to prove that the reviewer understands them 
@@ -184,7 +188,7 @@ _In class: Discussion of candidate appearance studies (first hour). Introduction
 
 _In preparation for your assignments over the following two weeks and in Week 12, you will gain familiarity with the survey software_ [_Qualtrics_](https://www.qualtrics.com/)_. As examples, we will preview the candidate appearance and immigration experiments._
 
-_[Challenge: How to Rate 608 Candidates (PDF)]({{< baseurl >}}/resources/mit17_801f17_challengeratecandidates)_
+_{{% resource_link e3b67a8a-eed5-c91d-8941-d6897de93067 "Challenge: How to Rate 608 Candidates (PDF)" %}}_
 
 
 {{< tdclose >}}
@@ -289,7 +293,7 @@ Rewrite your two-page paper from Week 10, turning it into a six-page document th
 Student Presentations of Experimental Findings
 {{< tdclose >}}
 {{< tdopen >}}
-Working with the TAs, prepare and present the results of your group project in a 10-minute presentation. You will be strictly timed, and you should make use of visual aids. Your PowerPoint slides should be submitted to the Instructor by 4 PM the day before class. Be sure to review the [Hints for Making Presentations]({{< baseurl >}}/pages/calendar/hints-for-making-presentations). 
+Working with the TAs, prepare and present the results of your group project in a 10-minute presentation. You will be strictly timed, and you should make use of visual aids. Your PowerPoint slides should be submitted to the Instructor by 4 PM the day before class. Be sure to review the {{% resource_link dc09ab58-b9e4-1aef-bd30-50985ffe5cd3 "Hints for Making Presentations" %}}. 
 {{< tdclose >}}
 
 {{< trclose >}}
