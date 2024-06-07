@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-801-political-science-scope-and-methods-fall-2017/e3b67a8aeed5c91d8941d6897de93067_MIT17_801F17_ChallengeRateCandidates.pdf
+file_size: 508067
 file_type: application/pdf
 learning_resource_types:
 - Assignments

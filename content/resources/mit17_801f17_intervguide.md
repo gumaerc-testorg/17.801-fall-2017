@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding political science scope
   and methods lecture slides: Interview guide.'
 file: /courses/17-801-political-science-scope-and-methods-fall-2017/8d57a45ecbbc073c54c7e795c63a1c65_MIT17_801F17_IntervGuide.pdf
+file_size: 101614
 file_type: application/pdf
 learning_resource_types:
 - Readings
