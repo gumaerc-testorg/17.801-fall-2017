@@ -192,7 +192,7 @@ Tate, Julie, Jennifer Jenkins, Steven Rich, et al. “[How The Washington Post i
 
 Banks, Duren, PhD, Paul Ruddle, Erin Kennedy, et al. "[Arrest-Related Deaths Program Redesign Study, 2015-16: Preliminary Findings](https://www.bjs.gov/index.cfm?ty=pbdetail&iid=5864)." Bureau of Justice Statistics, Office of Justice Programs. (Make sure to look at copies of the actual Form CJ-11A and CJ-12A.)
 
-[National Violent Death Reporting System](https://www.cdc.gov/nchs/comec/nvdrs.htm), National Center for Health Statistics.
+[National Violent Death Reporting System](https://www.cdc.gov/nvdrs/about/index.html), National Center for Health Statistics.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
