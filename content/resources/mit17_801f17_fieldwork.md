@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding political science scope
   and methods lecture slides: Can field work be scientific?'
-file: /ol-ocw-studio-app/courses/17-801-political-science-scope-and-methods-fall-2017/e7e85368b478fe9ca3b4b1cc97a45a0f_MIT17_801F17_FieldWork.pdf
+file: /courses/17-801-political-science-scope-and-methods-fall-2017/e7e85368b478fe9ca3b4b1cc97a45a0f_MIT17_801F17_FieldWork.pdf
 file_size: 228482
 file_type: application/pdf
 learning_resource_types:
