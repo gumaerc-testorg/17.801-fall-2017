@@ -38,7 +38,7 @@ Theory and Method in Political Science
 
 \[S\] Chapter 11: Where Do Theories Come From?
 
-Kellstedt, Paul M., and Guy D. Whitten. “Evaluating Causal Relationships.” Chapter 3 in *The Fundamentals of Political Science Research.* Cambridge University Press, 2008. ISBN: 9780521697880. \[Preview with [Google Books](https://books.google.com/books?id=dO-2oTHc6yQC&pg=PA45=onepage#v=onepage&q&f=false)\]
+Kellstedt, Paul M., and Guy D. Whitten. “Evaluating Causal Relationships.” Chapter 3 in *The Fundamentals of Political Science Research.* Cambridge University Press, 2008. ISBN: 9780521697880. \[Preview with {{% resource_link "6aacc932-9743-4060-ba8d-3ae81acc9566" "Google Books" %}}\]
 
 Freedman, David A.  “On Types of Scientific Inquiry: The Role of Qualitative Reasoning.” Chapter 12 in *The Oxford Handbook of Political Methodology.* Edited by Janet M. Box-Steffensmeier, Henry E. Brady, and David Collier. Oxford University Press, 2010. ISBN: 9780199585564.
 
@@ -50,13 +50,13 @@ Gerring, John. “Methods.” Chapter 9 in *Social Science Methodology: A Criter
 Experimental Work and Its Challenges
 {{< tdclose >}}{{< tdopen >}}
 
-McDermott, Rose. [“Experimental Methods in Political Science.” (PDF)](http://www.uky.edu/AS/PoliSci/Peffley/pdf/McDermott%202002%20EXPERIMENTAL%20METHODS%20IN%20POLITICAL%20SCIENCE.pdf) *Annual Review of Political Science* 5, no. 1 (2002): 31–61.
+McDermott, Rose. {{% resource_link "aa4581ea-63b3-4ca3-b7d3-6035c1b92cdf" "“Experimental Methods in Political Science.” (PDF)" %}} *Annual Review of Political Science* 5, no. 1 (2002): 31–61.
 
 Dunning, Thad. "Standard Natural Experiments." Chapter 2 in *Natural Experiments in the Social Sciences: A Design-Based Approach*. Cambridge University Press, 2012. ISBN: 9781107698000. 
 
-Falk, Armin, and James J. Heckman. [“Lab Experiments Are a Major Source of Knowledge in the Social Sciences.” (PDF)](http://ftp.iza.org/dp4540.pdf) Discussion Paper Series. IZA DP No. 4540. October 2009.
+Falk, Armin, and James J. Heckman. {{% resource_link "c1b5536a-78ac-4141-8863-fd206a964123" "“Lab Experiments Are a Major Source of Knowledge in the Social Sciences.” (PDF)" %}} Discussion Paper Series. IZA DP No. 4540. October 2009.
 
-Barabas, Jason, and Jennifer Jerit. [“Are Survey Experiments Externally Valid?” (PDF)](http://www.jjerit.com/images/BarabasJerit_APSR_2010.pdf) *American Political Science Review* 104, no. 02 (2010): 226–42.
+Barabas, Jason, and Jennifer Jerit. {{% resource_link "3950cb33-5f88-4ff6-b978-9b81cf0ca540" "“Are Survey Experiments Externally Valid?” (PDF)" %}} *American Political Science Review* 104, no. 02 (2010): 226–42.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -74,7 +74,7 @@ Observational Data and Its Challenges
 
 \[S\] Pp. 146.
 
-Fearon, James D., and David D. Laitin. [“Ethnicity, Insurgency, and Civil War.” (PDF - 8.4MB)](https://www.cambridge.org/core/journals/american-political-science-review/article/ethnicity-insurgency-and-civil-war/B1D5D0E7C782483C5D7E102A61AD6605) *American Political Science Review* 97, no. 1 (2003): 75–90.
+Fearon, James D., and David D. Laitin. {{% resource_link "9e63255f-7c2b-48aa-9a63-89dd11e2936f" "“Ethnicity, Insurgency, and Civil War.” (PDF - 8.4MB)" %}} *American Political Science Review* 97, no. 1 (2003): 75–90.
 
 Brady, Henry E. “Data-Set Observations versus Causal-Process Observations: The 2000 U.S. Presidential Election.” Chapter 12 in *Rethinking Social Inquiry: Diverse Tools, Shared Standards*. 2nd edition. Edited by Henry E. Brady and David Collier. Rowman and Littlefield, 2010. ISBN: 9781442203440.
 
@@ -84,11 +84,11 @@ Brady, Henry E. “Data-Set Observations versus Causal-Process Observations: The
 Cases Selection and Its Challenges
 {{< tdclose >}}{{< tdopen >}}
 
-Geddes, Barbara. ["How the Cases You Choose Affect the Answers You Get: Selection in Comparative Politics." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.315.5213&rep=rep1&type=pdf) *Political Analysis* 2 (1990): 131–50.
+Geddes, Barbara. {{% resource_link "d06cc007-71d6-4301-ab78-e16c138385a2" "\"How the Cases You Choose Affect the Answers You Get: Selection in Comparative Politics.\" (PDF)" %}} *Political Analysis* 2 (1990): 131–50.
 
-Pape, Robert A. [“The Strategic Logic of Suicide Terrorism.” (PDF - 1.7MB)](http://www.columbia.edu/itc/journalism/stille/Politics%20Fall%202007/readings%20weeks%206-7/Strategic%20Logic%20of%20Suicide%20Missions.pdf) *American Political Science Review* 97, no. 3 (2003): 343–61.
+Pape, Robert A. {{% resource_link "d5c4cfca-0106-479a-b5f1-17525c2eee7a" "“The Strategic Logic of Suicide Terrorism.” (PDF - 1.7MB)" %}} *American Political Science Review* 97, no. 3 (2003): 343–61.
 
-Ashworth, Scott, Joshua D. Clinton, Adam Meirowitz, et al. “[Design, Inference, and the Strategic Logic of Suicide Terrorism](https://www.jstor.org/stable/27644515?seq=1#page_scan_tab_contents).” *American Political Science Review* 102, no. 2 (2008): 269–73.
+Ashworth, Scott, Joshua D. Clinton, Adam Meirowitz, et al. “{{% resource_link "1f60557e-96b7-4703-84c9-49cccc65bd2d" "Design, Inference, and the Strategic Logic of Suicide Terrorism" %}}.” *American Political Science Review* 102, no. 2 (2008): 269–73.
 
 Axelrod, Robert. "The Live-and-Let-Live System in Trench Warfare in World War I". Chapter 4 in *The Evolution of Cooperation.* Basic Books, 2006. ISBN: 9780465005642.
 
@@ -100,11 +100,11 @@ Lawson, J. Chappell. “{{% resource_link "becc0e43-f256-a201-2f33-acb839d531aa"
 Evaluating Individual Studies
 {{< tdclose >}}{{< tdopen >}}
 
-Todorov, Alexander, Anesu N. Mandisodza, Amir Goren, et al.  “[Inferences of Competence from Faces Predict Election Outcomes](http://science.sciencemag.org/content/308/5728/1623).” *Science* 308, no. 5728 (2005): 1623–26.
+Todorov, Alexander, Anesu N. Mandisodza, Amir Goren, et al.  “{{% resource_link "f6ed7305-efce-483c-9eb6-001bb9874d85" "Inferences of Competence from Faces Predict Election Outcomes" %}}.” *Science* 308, no. 5728 (2005): 1623–26.
 
-Fryer, Jr., Roland G. "[An Empirical Analysis of Racial Differences in Police Use of Force](https://scholar.harvard.edu/fryer/publications/empirical-analysis-racial-differences-police-use-force)."  2016.
+Fryer, Jr., Roland G. "{{% resource_link "0e4eee04-4335-4d31-9432-4aede237c9d5" "An Empirical Analysis of Racial Differences in Police Use of Force" %}}."  2016.
 
-*Spend at least one hour consulting cases of police use of force (as one example: "*[*Fatal Force: 987 People Have Been Shot and Killed by Police in 2017*](https://www.washingtonpost.com/graphics/national/police-shootings-2017/)*," Washington Post.), or reading of “de-escalation” and use of force training at a local police department.*
+*Spend at least one hour consulting cases of police use of force (as one example: "*{{% resource_link "957d361f-2323-42cd-96d1-4c38e8821595" "*Fatal Force: 987 People Have Been Shot and Killed by Police in 2017*" %}}*," Washington Post.), or reading of “de-escalation” and use of force training at a local police department.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -112,17 +112,17 @@ Fryer, Jr., Roland G. "[An Empirical Analysis of Racial Differences in Police Us
 Evaluating a (Small) Body of Work: The Effects of Candidate Appearance
 {{< tdclose >}}{{< tdopen >}}
 
-Antonakis, John, and Olaf Dalgas.“[Predicting Elections: Child's Play!](http://science.sciencemag.org/content/323/5918/1183)” *Science* 323, no. 5918 (2009): 1183.
+Antonakis, John, and Olaf Dalgas.“{{% resource_link "40900214-5812-4b12-9855-c0fca6d09322" "Predicting Elections: Child's Play!" %}}” *Science* 323, no. 5918 (2009): 1183.
 
-Enos, Ryan. “[Monkey Cage: No, Good Looks Don’t Win Elections](https://www.washingtonpost.com/news/monkey-cage/wp/2013/11/13/no-good-looks-dont-win-elections/?utm_term=.2d2f62778c3a)," *Washington Post*, November 13, 2013.
+Enos, Ryan. “{{% resource_link "4bc31d40-4519-4535-a79b-a472aabe6b85" "Monkey Cage: No, Good Looks Don’t Win Elections" %}}," *Washington Post*, November 13, 2013.
 
-Poutvaara, Panu. “[How Do Candidates’ Looks Affect Their Election Chances?](https://wol.iza.org/articles/how-do-candidates-looks-affect-their-election-chances/long)” IZA World of Labor, 2017.
+Poutvaara, Panu. “{{% resource_link "3020cd0c-5c20-41f6-a9b0-390567116552" "How Do Candidates’ Looks Affect Their Election Chances?" %}}” IZA World of Labor, 2017.
 
-Banducci, Susan A., Jeffrey A. Karp, Michael Thrasher, et al. “[Ballot Photographs as Cues in Low-Information Elections](https://www.jstor.org/stable/20447173?seq=1#page_scan_tab_contents).” *Political Psychology* 29, no. 6 (2008): 903–17.
+Banducci, Susan A., Jeffrey A. Karp, Michael Thrasher, et al. “{{% resource_link "72c948a6-0edf-418e-8e92-aaaf41d5cbf6" "Ballot Photographs as Cues in Low-Information Elections" %}}.” *Political Psychology* 29, no. 6 (2008): 903–17.
 
-Lenz, Gabriel S., and Chappell Lawson. “[Looking the Part: Television Leads Less Informed Citizens to Vote Based on Candidates' Appearance](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00511.x/abstract).” *American Journal of Political Science* 55, no. 3 (2011): 574–89.
+Lenz, Gabriel S., and Chappell Lawson. “{{% resource_link "cf7fa31d-8c9d-4fb5-a421-7a6771257ed2" "Looking the Part: Television Leads Less Informed Citizens to Vote Based on Candidates' Appearance" %}}.” *American Journal of Political Science* 55, no. 3 (2011): 574–89.
 
-Lawson, Chappell, Gabriel S. Lenz, Andy Baker,et al. “[Looking Like a Winner: Candidate Appearance and Electoral Success in New Democracies](https://www.jstor.org/stable/40891390?seq=1#page_scan_tab_contents).” *World Politics* 62, no. 4 (2010): 561–93.
+Lawson, Chappell, Gabriel S. Lenz, Andy Baker,et al. “{{% resource_link "33900ea3-29b7-4ce0-b00a-7785005c400c" "Looking Like a Winner: Candidate Appearance and Electoral Success in New Democracies" %}}.” *World Politics* 62, no. 4 (2010): 561–93.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Section II: Collecting Data**
@@ -132,11 +132,11 @@ Lawson, Chappell, Gabriel S. Lenz, Andy Baker,et al. “[Looking Like a Winner: 
 Conducting an Experiment (or Generating Quantitative Observational Data), Part I
 {{< tdclose >}}{{< tdopen >}}
 
-Milgram, Stanley. [“Some Conditions of Obedience and Disobedience to Authority.” (PDF - 2.6MB)](http://psyc604.stasson.org/Milgram2.pdf) *Human Relations* 18 (1965): 57–76. (skim)
+Milgram, Stanley. {{% resource_link "06286819-aea6-4347-8e90-4526a3091a11" "“Some Conditions of Obedience and Disobedience to Authority.” (PDF - 2.6MB)" %}} *Human Relations* 18 (1965): 57–76. (skim)
 
-Zimbardo, Phillip G. “[The Mind is a Formidable Jailer: A Pirandellian Prison](https://www.nytimes.com/1973/04/08/archives/a-pirandellian-prison-the-mind-is-a-formidable-jailer.html),” *New York Times Magazine*, April 8, 1973.
+Zimbardo, Phillip G. “{{% resource_link "67b800ec-352b-4a6f-8232-5f5f53577e9b" "The Mind is a Formidable Jailer: A Pirandellian Prison" %}},” *New York Times Magazine*, April 8, 1973.
 
-See also Zimbardo’s description of [the Stanford Prison Experiment: A Simulation of the Psychology of Imprisonment](http://www.prisonexp.org/). (skim)
+See also Zimbardo’s description of {{% resource_link "c5ee96f9-10e5-4ff7-a935-d4589f34ae11" "the Stanford Prison Experiment: A Simulation of the Psychology of Imprisonment" %}}. (skim)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -150,13 +150,13 @@ No readings assigned
 Conducting Field Research, Part I
 {{< tdclose >}}{{< tdopen >}}
 
-Telma, Kate. “[When Castes Collide: PhD student Matt Lowe Uses Cricket Tournaments to Explore Caste Interactions in Rural India and Whether the Popular Sport Can Help Bridge Class Divides](http://news.mit.edu/2017/mit-student-matt-lowe-uses-cricket-to-study-caste-relations-in-india-0720)”. MIT News. July 20, 2017.
+Telma, Kate. “{{% resource_link "8d6eb600-8907-434a-ad0d-11eaf29703eb" "When Castes Collide: PhD student Matt Lowe Uses Cricket Tournaments to Explore Caste Interactions in Rural India and Whether the Popular Sport Can Help Bridge Class Divides" %}}”. MIT News. July 20, 2017.
 
 Wood, Elisabeth Jean. “Field Research.” Chapter 5 in *The Oxford Handbook of Comparative Politics*. Edited by Carles Boix and Susan C. Stokes. Oxford University Press, 2009. ISBN: 9780199566020. 
 
 Lawson, Chappell. “{{% resource_link "e7e85368-b478-fe9c-a3b4-b1cc97a45a0f" "Can Field Work Be 'Scientific'? (PDF)" %}}” 
 
-DeWalt, Kathleen M., and Billie R. Dewalt. "Doing Participation Observation: Becoming a Participant." Chapter 3 in *Participant Observation: A Guide for Fieldworkers*. Alta Mira Press, 2001. ASIN: B01A65KPQC. \[Preview with [Google Books](https://books.google.com/books?id=p1wcO3UNXQ4C&pg=PA35=onepage#v=onepage&q&f=false)\]
+DeWalt, Kathleen M., and Billie R. Dewalt. "Doing Participation Observation: Becoming a Participant." Chapter 3 in *Participant Observation: A Guide for Fieldworkers*. Alta Mira Press, 2001. ASIN: B01A65KPQC. \[Preview with {{% resource_link "1f5cc602-22d6-48f9-8dda-2b069853d408" "Google Books" %}}\]
 
 ———. "Doing Participation Observation: Becoming an Observer." Chapter 4 in *Participant Observation: A Guide for Fieldworkers*. 2nd edition. Alta Mira Press, 2001. ASIN: B01A65KPQC. 
 
@@ -166,7 +166,7 @@ DeWalt, Kathleen M., and Billie R. Dewalt. "Doing Participation Observation: Bec
 Conducting Field Research, Part II: Interviews
 {{< tdclose >}}{{< tdopen >}}
 
-Leech, Beth L. [“Asking Questions: Techniques for Semistructured Interviews.” (PDF)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E1CF8B87E87F36611AEC4D4A20468DE5/S1049096502001129a.pdf/asking-questions-techniques-for-semistructured-interviews.pdf) *PS: Political Science and Politics* (2002): 665–68.
+Leech, Beth L. {{% resource_link "bd639c8f-8414-4383-ae22-7709051b8000" "“Asking Questions: Techniques for Semistructured Interviews.” (PDF)" %}} *PS: Political Science and Politics* (2002): 665–68.
 
 Lawson, Chappell. “{{% resource_link "8d57a45e-cbbc-073c-54c7-e795c63a1c65" "Interview Guide (PDF)" %}}.” 
 
@@ -184,15 +184,15 @@ Using Archives, Libraries, and the Like
 
 *Consult the following resources on police shootings in the United States:*
 
-Tate, Julie, Jennifer Jenkins, Steven Rich, et al. “[How The Washington Post is Examining Police Shootings in the United States](https://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-united-states/2016/07/07/d9c52238-43ad-11e6-8856-f26de2537a9d_story.html?utm_term=.c516d755ad6e)," *Washington Post*, July 7, 2016. 
+Tate, Julie, Jennifer Jenkins, Steven Rich, et al. “{{% resource_link "6048421a-e4ce-4a40-b28b-d21afc16049e" "How The Washington Post is Examining Police Shootings in the United States" %}}," *Washington Post*, July 7, 2016. 
 
-“[The Counted: People Killed by Police in the US](https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database),” *The Guardian*.
+“{{% resource_link "1faf1d3f-bdae-4207-b9b1-a1209591d836" "The Counted: People Killed by Police in the US" %}},” *The Guardian*.
 
 *FBI logs on active shootings by police*
 
-Banks, Duren, PhD, Paul Ruddle, Erin Kennedy, et al. "[Arrest-Related Deaths Program Redesign Study, 2015-16: Preliminary Findings](https://www.bjs.gov/index.cfm?ty=pbdetail&iid=5864)." Bureau of Justice Statistics, Office of Justice Programs. (Make sure to look at copies of the actual Form CJ-11A and CJ-12A.)
+Banks, Duren, PhD, Paul Ruddle, Erin Kennedy, et al. "{{% resource_link "d0400976-e935-4bec-bc35-438f20f6772f" "Arrest-Related Deaths Program Redesign Study, 2015-16: Preliminary Findings" %}}." Bureau of Justice Statistics, Office of Justice Programs. (Make sure to look at copies of the actual Form CJ-11A and CJ-12A.)
 
-[National Violent Death Reporting System](https://www.cdc.gov/nvdrs/about/index.html), National Center for Health Statistics.
+{{% resource_link "1a17ed63-6fc8-43e5-84ec-babaab617273" "National Violent Death Reporting System" %}}, National Center for Health Statistics.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
